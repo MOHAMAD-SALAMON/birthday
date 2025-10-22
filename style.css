@@ -77,7 +77,7 @@ h2.active {
   text-shadow: 0 0 20px #fff, 0 0 50px #fff;
 }
 h2::after {
-  content: " 2024";
+  content: " 2025";
   transition: 0.5s;
 }
 h2.active::after {
@@ -178,4 +178,5 @@ h2.active::after {
     overflow: hidden;
     overflow-x: hidden;
   }
+
 }
